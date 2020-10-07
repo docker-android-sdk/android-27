@@ -7,15 +7,15 @@ Docker for Android SDK 27 with preinstalled build tools and emulator image
 **Installed Packages**
 ```bash
 # sdkmanager --list
-  Path                              | Version | Description                       | Location                         
-  -------                           | ------- | -------                           | -------                          
-  build-tools;29.0.3                | 29.0.3  | Android SDK Build-Tools 29.0.3    | build-tools/29.0.3/              
-  emulator                          | 30.0.5  | Android Emulator                  | emulator/                        
-  patcher;v4                        | 1       | SDK Patch Applier v4              | patcher/v4/                      
-  platform-tools                    | 29.0.6  | Android SDK Platform-Tools        | platform-tools/                  
-  platforms;android-27              | 3       | Android SDK Platform 27           | platforms/android-27/            
-  system-images;a...google_apis;x86 | 9       | Google APIs Intel x86 Atom Sys... | system-images/a...oogle_apis/x86/
-  tools                             | 26.0.1  | Android SDK Tools 26.0.1          | tools/
+  Path                                     | Version | Description                             | Location
+  -------                                  | ------- | -------                                 | -------
+  build-tools;30.0.2                       | 30.0.2  | Android SDK Build-Tools 30.0.2          | build-tools/30.0.2/
+  cmdline-tools;latest                     | 2.1     | Android SDK Command-line Tools (latest) | cmdline-tools/latest/
+  emulator                                 | 30.1.5  | Android Emulator                        | emulator/
+  patcher;v4                               | 1       | SDK Patch Applier v4                    | patcher/v4/
+  platform-tools                           | 30.0.4  | Android SDK Platform-Tools              | platform-tools/
+  platforms;android-27                     | 3       | Android SDK Platform 27                 | platforms/android-27/
+  system-images;android-27;google_apis;x86 | 11      | Google APIs Intel x86 Atom System Image | system-images/android-27/google_apis/x86/
 ```
 
 **Usage**
